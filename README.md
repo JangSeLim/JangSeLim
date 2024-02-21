@@ -72,3 +72,11 @@ Here are some ideas to get you started:
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=selim0401)](https://solved.ac/selim0401)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=limielife)](https://velog.io/@limielife) 
+
+   <br/>
+   <br/>
+ 
+## :mailbox_with_mail: Contacts
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:selim0401@gmail.com)](mailto:selim0401@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:analayla18@naver.com)](mailto:analayla18@naver.com)
+ 
